@@ -20,5 +20,5 @@ My Name is Sofía Ramírez 🌱
 - Pronouns: She/Her
 - I'm learning everyday as I Can
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaRam2304&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaRam2304&theme=tokyonight)
 
