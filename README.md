@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 My Name is Sofía Ramírez 🌱
 - UNICAH / UNAH
 - Pronouns: She/Her
-- I'm learning everyday as I Can
+- Learning everyday
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaRam2304&theme=tokyonight)
 
