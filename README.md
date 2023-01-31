@@ -19,6 +19,7 @@ My Name is Sofía Ramírez 🌱
 - UNICAH / UNAH
 - Pronouns: She/Her
 - Learning everyday
+- In love with web design and development
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SofiaRam2304&theme=tokyonight)
 
